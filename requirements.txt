@@ -2,3 +2,12 @@ flask
 pytest
 betamax
 gunicorn
+Jinja2
+MarkupSafe
+Werkzeug
+gnureadline
+itsdangerous
+rauth
+requests
+wsgiref
+Flask-SSLify
