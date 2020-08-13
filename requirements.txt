@@ -9,5 +9,4 @@ gnureadline
 itsdangerous
 rauth
 requests
-wsgiref
 Flask-SSLify
